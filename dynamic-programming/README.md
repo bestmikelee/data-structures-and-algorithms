@@ -27,3 +27,9 @@ sum 3:
 Example 2:
 
 Given a sequence of N numbers. Find the length of the longest non-decreasing sequence.
+
+Example 3:
+
+A table composed of N x M cells, each having a certain quantity of apples is given. You start from the upper left corner. At each step you can go down or right one cell. Find the maximum number of apples you can collect.
+
+[Chess Metric]('./chessMetric.js')
