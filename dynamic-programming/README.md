@@ -1,5 +1,7 @@
 # Dynamic Programming Guide
 
+Source: https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/#!
+
 _An algorithmicc technique which is usually based on a recurrent formula and one (or some) starting states_
 
 Key Point:
